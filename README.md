@@ -29,14 +29,6 @@
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eda891&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eda891&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## Achievements & Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eda891&theme=onedark&row=1&column=6" />
