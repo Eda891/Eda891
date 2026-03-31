@@ -7,12 +7,8 @@
 <h3 align="center">Full-Stack Developer | Analytical Thinker | Lifelong Learner</h3>
 
 ---
-
-## 🚀 About Me
-- 💻 Passionate about full-stack development  
-- 🔧 I enjoy building practical and efficient systems  
-- 📚 Constantly learning new technologies  
-- 🎯 Focused on improving problem-solving skills  
+ <!-- Typing animation -->
+ <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFEF&center=true&vCenter=true&width=550&lines=Passionate+about+full-stack+development;Building+practical+and+efficient+systems;Always+learning+and+creating" /> </a> </p> 
 
 ---
 
