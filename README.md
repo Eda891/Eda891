@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eda891&theme=onedark&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=Eda891&theme=tokyonight" />
 </p>
 
 <p align="center">
