@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile" alt="Banner" />
+  <img src="download.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Eda</h1>
