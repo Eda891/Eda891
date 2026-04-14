@@ -36,7 +36,7 @@
 ## 📌 Featured Projects
 
 ### 🔹 DormitoryComplaintSystem
-Python-based web system for submitting and tracking dormitory maintenance requests.
+Python(FastAPI)-based web system for submitting and tracking dormitory maintenance requests.
 
 ### 🔹 Internship-code
 Flutter mobile application for managing internship workflows.
